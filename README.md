@@ -13,3 +13,5 @@ These notes may not limited to specific subjects or genres:
 #Economics #Math #Philosophy #Literature #CS
 
 I will do my best to specify the references. Contact me if I didn't do well.
+
+Email: wang.12716@osu.edu
