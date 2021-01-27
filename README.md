@@ -10,8 +10,8 @@ OK, I probably need this. (The intuition is simple, although calculations are lo
 
 These notes may not limited to specific subjects or genres:
 
-#Economics #Math #Philosophy #Literature #CS
+#Economics #Math #Philosophy/Methodology #Literature #CS
 
-I will do my best to specify the references. Contact me if I didn't do well.
+I will do my best to specify the references.
 
 Email: wang.12716@osu.edu
